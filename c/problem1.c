@@ -1,6 +1,6 @@
 // Teddy Oweh - October 9th 2023 10:50pm @ My Dorm Couch
-//Multiples of 3 or 5
-//https://projecteuler.net/problem=1
+// Multiples of 3 or 5
+// https://projecteuler.net/problem=1
 
 
 #include <stdio.h>
