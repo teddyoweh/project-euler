@@ -4,4 +4,4 @@
 
 | Problem                                 | Source Code                          |
 |-----------------------------------------|--------------------------------------|
-| [Multiples of 3 or 5](https://projecteuler.net/problem=1)   | [problem1.c]
+| [Multiples of 3 or 5](https://projecteuler.net/problem=1)   | [problem1.c](./c/problem1.c)
